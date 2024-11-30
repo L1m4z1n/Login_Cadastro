@@ -1,0 +1,19 @@
+1. Página de Login (HTML + CSS + PHP)
+
+Objetivo: Criar uma página de login simples com campos de "usuário" e "senha".
+Requisitos:
+Formulário HTML com inputs para nome de usuário e senha.
+Estilização básica com CSS.
+Validação simples usando PHP para verificar se o login e senha correspondem aos dados no banco de dados.
+
+Desafio extra: Usar o Bootstrap para melhorar o layout e a responsividade.
+
+2. Cadastro de Usuário (HTML + CSS + PHP + MySQL)
+Objetivo: Criar um formulário de cadastro de usuário com campos como nome, e-mail, senha e data de nascimento.
+Requisitos:
+Formulário HTML para coleta dos dados.
+Validação de entrada de dados usando PHP.
+Inserção de dados em uma tabela de usuários no MySQL.
+Exibição de uma mensagem de sucesso ou erro após o cadastro.
+Desafio extra: Adicionar verificação de e-mail único (não permitir cadastros com o mesmo e-mail).
+
